@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Concerning the gouverment of the present Parlament of England, those are in the behalfe of the supreame iudge to be delivered to the lord mayor and aldermen of the city of London, and are by them to be made knowne and manifested unto all other magistrats of the cities and provinces of the whole kingdome.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80300</idno>
+            <idno type="STC">Wing C5696A</idno>
+            <idno type="STC">ESTC R174218</idno>
+            <idno type="EEBO-CITATION">45097641</idno>
+            <idno type="OCLC">ocm 45097641</idno>
+            <idno type="VID">171245</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80300)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171245)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2569:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Concerning the gouverment of the present Parlament of England, those are in the behalfe of the supreame iudge to be delivered to the lord mayor and aldermen of the city of London, and are by them to be made knowne and manifested unto all other magistrats of the cities and provinces of the whole kingdome.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>anno 1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated on p. [8]: Anno 1651.</note>
+                  <note>Reproduction of original in the Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>Great Britain --  Politics and government, --  1649-1660.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:171245:1"/>
+            <head>CONCERNING <hi>the gouverment of the preſent</hi> PARLAMENT OF ENGLAND, <hi>Thoſe are in the behalfe of the Supreame Iudge to be delivered to the</hi> Lord Major <hi>and the</hi> Aldermen <hi>of the city of</hi> London, <hi>and are by them to be made knowne and manifeſted unto all the other Magiſtrats of the Cities and Provinces of the whole Kingdome.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">E</seg>Very ſinne is as a ſharpe ſword, <note place="margin">Sirach. 21. 1. Iohan. 3. Iohan. 8. 18.</note> and doth ſo wound, that no bo<g ref="char:EOLhyphen"/>dy can heale it. For he that commit<g ref="char:EOLhyphen"/>teth ſin is of the Devill, who is a lyer and murtherer from the be<g ref="char:EOLhyphen"/>ginning, with all thoſe which doe not continue in the truth, but haue reſi<g ref="char:EOLhyphen"/>ſted God; Therefore hath he thruſt and throune <note place="margin">Epiſt. Iu<g ref="char:EOLhyphen"/>dae. 2. Petri. 2. 1. Iohan. 5. 2. Timot. 3.</note> the helliſh Angells out of heaven. Apocal. 12. Now therefore they which after his manner doe ſtirre up the moſt part of the world, Eſai. 59. they doe heape ſinne upon ſinne, upon their owne ſelues. Sapient. 2. But they which inwardly in their <note place="margin">Rom. 1. 2.</note>
+               <pb facs="tcp:171245:2"/> hearts or conſciences doe reſiſt the grace of God our Lord and Saviour Jeſus Chriſt Tit. 2. accor<g ref="char:EOLhyphen"/>ding <note place="margin">1. Petri. 1. 5. Roma. 8. 9. Iohan 12. Hebr. 10. 12. Apoc. 20. Eſai. 29. 2. Pet. 2. 3. Matt. 5. 7. Lucas, 6.</note> to the humble Spirit of innocency, Galat. 4. 5. 6. they walke not att all in the light; and doe outwardly exalt and promote themſelues to be judges one of an other, 1. Corint. 4. and are already as much under the power of the Divell, as thoſe ſcoffers and tyrants in the firſt world were; whom God by reaſon of their perverſe courſes over<g ref="char:EOLhyphen"/>whelmed with the Deluge, Geneſ. 6. 7. And eſpe<g ref="char:EOLhyphen"/>cially in the new Teſtament it is no where taught that any one ſhall revenge or judge his enemies. Rom. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> Therefore principally they of England <note place="margin">Epheſ. 4.</note> may according to the words of Chriſt, his Diſciples <note place="margin">1. Cor. 11.</note> and Apoſtles, judge and trye themſelves, Ephes. 5. whether or no they be in the faith of Chriſt, or <note place="margin">Rom. 11. Colloſ. 1. 3 Ierem. 23. 1. Pet. 2. 4.</note> if Chriſt bee in them 2. Corint. 13. for they which have not the Spirit of Chriſt are not his, Rom. 8. And they which doe not beleeve the word of God or Chriſt, thoſe ſhall according to that ſame word <note place="margin">Matt. 21. 24. Marc. 12. 13. Ierem. 7. 8. 19. Nahum. 3.</note> be judged, ſcattered and conſumed. Iohn. 12. Which therefore to avert, noe falſe Prophets, Matth. 7. 24. no ſhewes of any outward Temple or falſe ſeruice of God ſhall helpe. And moreover no roueing, murthering, ſtealing, publique abomi<g ref="char:EOLhyphen"/>nations or bloodſheading, Hoſea 4. 9. 12. ſhall be <note place="margin">Hezec. 6. 11. 13. 22. Matt. 23. 1. Theſ. 5. Luc. 3. 12. 17. Matt. 3. 13</note> covered, hid, or forgotten. By reaſon of which the day of the Lord is att hand, in which the Lord will cleanſe his barne, and the chaff (namely, the chil<g ref="char:EOLhyphen"/>dren of iniquity, which would hinder his harveſt; by whoſe meanes the good wheate is choaked,) ſhall be cutt downe and burnt in the everlaſting <note place="margin">Eſai. 9, 27, 65. 66.</note> fire.</p>
+            <pb facs="tcp:171245:2"/>
+            <p>The onely, eternal, incorruptible, inviſible, <note place="margin">1. Tim. 1. 6. Deut. 10. 32. Ierem. 10. 32 50. 51. Mich. 6. 7.</note> onely wiſe immortal King of all Kings and Lord of all Lords, Revel 19. viz. the ſtrong, true and living God, Ieſai. 10. 40. 45. 66. who from the beginning hath judged righteouſly here upon the face of the earth, which is his, Pſal. 9 17. 18. 75. 89 96. 97. 98. and <note place="margin">Revel. 17. 19. Ierem. 23. Ezek. 13. Rom. 16. Phil. 3. Pſal. 89. Zach. 12. 14. Daniel. 7. 11.</note> appointed the ancient people, Ieſai. 44. will before the end of the world, not onely have deſtroyed the Babylonical Whore, but alſo revealed and over<g ref="char:EOLhyphen"/>throwne (Pſalm 141.) the hypocriſy and lies of all the other falſe teachers, 2. Pet. 2. mercenaries, Iohn. 10. or Servants of the belly. Wherefore alſo he ſtill cauſeth to be fought forth, according to truth and righteooſneſſe, 2. Tim. 2. 4. and his Iudgement to be denounced: In regard of which <note place="margin">4. Eſd. 11. 12. 15. 16. Amos. 3. Heb. 4. 10 Iſai. 47. 48. Ierem. 50. 51.</note> it is ſignified, according to the power of the living word of God, more and more, unto the Em<g ref="char:EOLhyphen"/>perour, King of Spaine and others, that are un<g ref="char:EOLhyphen"/>der the great Babel, Revel, 16. to leave the idola<g ref="char:EOLhyphen"/>try and witchcraft of their falſe Prophets, and to goe out of Babel, if they deſire to eſcape the fierce anger of God.</p>
+            <p>But amongſt the pretended Evangelical hypo<g ref="char:EOLhyphen"/>crits <note place="margin">Ezek. 34. Matt. 24. Mar. 13.</note> or falſe Chriſtians, he hath not found to his Servant David, in no place, any help at all, concer<g ref="char:EOLhyphen"/>ning the full deliverance of the elect, Ierem. 30. as alſo neither faithfulneſſe nor love, Oſe. 4. nor faith, <note place="margin">Galat. 5. Revel. 16. Titum. 1. 3 Pſalm. 10. 52. 68. 94. Iſai. 42. 48. 49. 60.</note> nor juſtice, Luc. 18. Thoſe envious, nay wicked, proud, angry, haughty and tyrannicall men, who in their doings or purpoſes deſire not at all to looke principally upon the glory of God, nor upon the univerſall, temporal and eternal welfare of mankind, they ſhould kill Chriſt himſelfe, or ſeeke <note place="margin">Matt. 23. Luc. 11.</note> after his live, if he ſhould begin to overthrow, ac<g ref="char:EOLhyphen"/>cording
+<pb facs="tcp:171245:3"/> to the Zeale of the Lord, their outward temple-doings and falſe worſhip of God, whereu<g ref="char:EOLhyphen"/>pon, <note place="margin">2. Tim. 4. Ierem. 7. 8. 18. Rom. 1. 9. 11. Pſal. 69. 109. Iohn. 2. Luc. 19. 1. Iohn. 3. Iſai. 57.</note> for the Salvation of their ſoules, they doe ſtiffneckedly and obſtinately relye, as in former ti<g ref="char:EOLhyphen"/>mes the Iewes did.</p>
+            <p>But for aſmuch as in this regard there is no pea<g ref="char:EOLhyphen"/>ce 1. Theſſal. 5. For the furious, envious and bitter Cain in his generation, they in England eſpecially, may looke very well to themſelves, how to behave them, concerning theſe ſo long laſting troubles <note place="margin">Luc. 21. Matth. 24. Pſal. 2. 99.</note> and inſurrections of warre, whereby Satan is wholly ſet looſe with rage and fury, Revel. 20. and to take heed, leaſt they further treſpaſſe and ſinne, <note place="margin">Obad. 1.</note> in uſing ill thoſe poore innocent ſoules, Ierem. 2. <note place="margin">Rom. 1.</note> the ſouldiers or the flocke of the ſlaughter, Zachar. 11. who, by the unjuſt, nay crafty, murtherous and traiterous deſigne, Ezek. 22. of the Scots, are falne into their hands.</p>
+            <p>For no body ought to be himſelfe judge over ano<g ref="char:EOLhyphen"/>ther <note place="margin">Rom. 12. 1. Pet. 2. Pſal. 10. 94. Sap. 6.</note> 1. Cor. 4. Seeing it is not onely againſt the new, but alſo againſt the old teſtame<g ref="char:cmbAbbrStroke">̄</g>t, and cannot availe nor ſubſiſt before God, the judge of all. Hebr. 10. 12. And becauſe no wordly magiſtrats, no nor thoſe, <note place="margin">Amos. 2. 3. 4. 5.</note> who in their office are by God himſelfe appoin<g ref="char:EOLhyphen"/>ted to judge and to governe, have any power or licence, to charge the poore people and ſubjects, <note place="margin">Iſai. 1. 32. 53.</note> with ſuch a burden, nor to flay them, according as they pleaſe, for to maintaine their violent gouver<g ref="char:EOLhyphen"/>nement <note place="margin">Mich. 3.</note> invented by themſelues, Amos. 6. there<g ref="char:EOLhyphen"/>fore this printed letter, ſent thither once allready, <note place="margin">Iam. 5.</note> is before all other things very well to be conſide<g ref="char:EOLhyphen"/>red: <note place="margin">Eccleſ. 10. 35.</note> It hath been directed many years agoe, becau<g ref="char:EOLhyphen"/>ſe of the troubles of Germany principally, to the two Princes Electours, of Saxen and Branden<g ref="char:EOLhyphen"/>bourg,
+<pb facs="tcp:171245:3"/> but it belongeth alſo unto all the other pre<g ref="char:EOLhyphen"/>tended Evangelical Magiſtrats, Princes, Judges and <note place="margin">Sap. 6. Rom. 1. 11 Mich. 7. Iſai. 30. Matt. 29. Pſal. 82. Iſai. 8. 30. 50. Amos. 5. Ezek. 22.</note> States there; who in their apoſtaſy, hypocriſy, falſhood, unbeleefe and prevailing iniquity, haue alſo undertaken to protect and defend themſelues againſt the Counſel and Spirit of the Lord. Iſa. 1. 8. 30. 31. Whereupon there hath been kindled ſuch a fire, in that murthering den. Ierem. 7. 11. 15. 17. or bloody city of this falſe Jeruſalem, Matth. 21. 24. Marc. 11. that in many places or countries there haue not been left neither men nor beaſts, Zephan. <note place="margin">4. Eſdr. 15. 16. 1. Cor. 12. Rom. 12. Iſai. 59. Revel. 12. 16. 17.</note> 1. To paſſe over in Silence, that the afflicted fellow<g ref="char:EOLhyphen"/>members, or thoſe that are of the houſhold of faith. Gal. 5. 6. by reaſon of ſuch cunning deſpiſers, Iſai. 28, and inconſiderat violent men, are conſtrai<g ref="char:EOLhyphen"/>ned to remaine under the Babylonien yoake or abo<g ref="char:EOLhyphen"/>mination, and to be in danger, to periſh eternally with body and ſoule, Dan. 12. which alſo will bring <note place="margin">Ierm. 23. Act. 20. Matt. 7. Zeph. 3. 2. Petr. 2. Revel. 16. Habac. 3. Zach. 13. Marc. 13. Coloſſ. 2. Iſai. 5. 29. 33. Pſal. 12. 80. Nahum. 2. 3. Mal. 3. Matth. 13.</note> their dreamers. (Epiſt. Iud.) the terrible ravening wolues riſen in the flock, firſt off all into hell, as beeing ſuch, upon whom men have relied concer<g ref="char:EOLhyphen"/>ning their ſalvation, and by whom Satan hath inti<g ref="char:EOLhyphen"/>ced to all wickedneſſe. Wherefore it hath bee<g ref="char:cmbAbbrStroke">̄</g> writ<g ref="char:EOLhyphen"/>ten very ſharply and powerfully unto the Scots, eſ<g ref="char:EOLhyphen"/>pecially, that for the maintaining, eſtabliſhing or propagating of their Couenant, they ſhould not Subject themſelues unto the whiſperings of ſuch uncleane Spirits, the falſe prophets, in ſuch a man<g ref="char:EOLhyphen"/>ner, as a time hitherto hath been done with the de<g ref="char:EOLhyphen"/>ſtruction of the poore and miſerable by other war<g ref="char:EOLhyphen"/>riours and tyrants, theefs and murtherers, Ierem. 7. 19. and principally by thoſe in Germany, by whom all is ſo farre become a Spoile, nay quite a curſe. Ierem. 2. 17. All which ſhall as yet be judged on
+<pb facs="tcp:171245:4"/> the children of that wicked one Iſai. 3. who have <note place="margin">Deut. 32. Rom. 12. Tit. 3. Matth. 7. 13. 24. Rom. 2. 14 1. Cor. 4. 2. Theſ. 2. Revel. 12. 20. 14. 19. 22. Iſai. 9. 27. 65. 66. 1. Cor. 15.</note> entrenched upon the vengeance of God the Moſt high. Pſal. 94. Hebr. 10. and ſo undertaken, by their unjuſt purpoſes or envious doings, according to the working of the furious Satan within the<g ref="char:cmbAbbrStroke">̄</g>, to hinder, nay quite to bring to nought the harveſt, wherein God according to his word and Goſpel, will jud<g ref="char:EOLhyphen"/>ge the hidden things of the hearts; Who therefore ſhall thruſt in his Sickle and cutt off many into the very hell, and execute vengeance in anger &amp; fury, Mich. 5. and make all his ennemies his foot-ſtoole. Pſalm. 110. Hebr. 1. 10.</p>
+            <div type="part">
+               <head>
+                  <hi>A Servant of the Lord,</hi> 
+                  <note place="margin">Iſai. 42. 49. Ierem. 23. 30. 33. Mich. 4. 7.</note> 
+                  <note place="margin">Pſal. 89. 132.</note>
+               </head>
+               <p>SErving God in his JUDGEMENT. Revel. <note place="margin">Daniel. 2. 7. 12. Pſal. 50. 97. 145. Hebr. 10. 11. 12. Iſai. 1. 5. 51. 59. 61. Amos. 5. 2 Thren. 2. 4 Rom. 8. 11 Pſalm. 75. 125. Rom. 1. 9. 11. Ioh. 1. 8. 12. 1. Corinth. 2. 1. Theſal. 2. 5.</note> 14. 16. 18. the kingdome of affliction and patien<g ref="char:EOLhyphen"/>ce, 2. Theſſ. 1. upon which men ſhould have waited and hoped according to the righteouneſſe in the Spirit by faith, Gal. 5. and by no meanes in ſuch a manner, as the ſtubborne, obſtinate Iewes blinded by the Divel, haue done, when Chriſt their poore deſpiſed king came, Iſai. 53. Zach. 9. 11. 12.</p>
+            </div>
+         </div>
+         <div type="text">
+            <pb facs="tcp:171245:4"/>
+            <head>
+               <hi>CONCERNING</hi> The troubles and the falſe IUDGEMENT In ENGLAND.</head>
+            <p>GOD is juſt, and his word doth not lie. For <note place="margin">Deut. 10. 32. Tit. 1. Hebr. 6. Iohn. 8. 12 Ierem. 23. Matth. 5.</note> it is impoſſible, for God or for the ſtrength of Iſrael to lie, 1. Samuel 15. Malac. 3. And he will have that ſame his word kept, or performed according to his councell and will, Matth. 7. 24. 25. According to which he hath dearly ſignified unto thoſe in the ſecond or new Teſtament, that they ſhould not revenge them ſelves on their en<g ref="char:EOLhyphen"/>nemies <note place="margin">Rom. 2. 12. 14. 1. Theſſ. 5. Wiſdom. 6. 12. Pſa. 10. 94.</note> and judge nothing 1. Cor. 4 nor render evill for evill, but to leave all revenge unto God 1. Pet. 2. Who judgeth righteouſly and without reſpect of perſons, Deuter. 10. and will not ſuffer vengeance to be taken from him, as a while hitherto divers have attempted, intending to hinder the King<g ref="char:EOLhyphen"/>dome of God, nay to bring to nought (Matth. 24) <note place="margin">Dan. 2. 7. 12. Marc. 13. Revel. 16.</note> his Judgement, concerning the univerſall redemp<g ref="char:EOLhyphen"/>tion of his elect, Luc. 18. When I beeing there pre<g ref="char:EOLhyphen"/>ſent had put to mind unto the King of England, that what He and his Parlament had take<g ref="char:cmbAbbrStroke">̄</g> from the ſubject, for to kill and deſtroy one another, they maight have imployed it for to help their poore neighbours in Germany, He did anſwer, that it was true: Which thoſe his adverſaries, by whom he is killed, have not done, nor deſired to regard the common temporal and eternal welfare of mankind: but they undertake after the faſhion of the Jewes <note place="margin">2. Cor. 10. Rom. 1. 16.</note> in former times, to ſet up an earthly and worldly Dominion, wherein the inward obedience within,
+<pb facs="tcp:171245:5"/> the conſcience towards God ſhal ceaſe, nay haue no place at all amongſt them: And beſides this, the <note place="margin">2. Tim. 3. 4. 1. Iohn. 2. 4.</note> ſtrive and diſcord of the Scribes or worldly lear<g ref="char:EOLhyphen"/>ned men, whence originally all the deſtruction in whole EUROPE is riſen, ſhall remaine. It agreeth therefore very ill, that ſuch men who in regard of the hope of faith are quite ſeparated from <note place="margin">Rom. 8. Hebr. 11.</note> God, doe hope the confirmation of their Common<g ref="char:EOLhyphen"/>wealth from thoſe under the great Babel, namely <note place="margin">Rom. 16. 17. Pſal. 125. 146.</note> from the King of Spain and his like, and approoue thereof, whereas they have killed ther King even for this cauſe, that, as they pretend, he had favoured the Roman Catholiks and complied with them. But there will be an ill end with thoſe men that doe <note place="margin">Epiſt. Iudae. Mica. 6. Iam. 5. Mica. 3. Malac. 3. 4. Iſai. 57. Pſalm. 10. 68. Amos 5. Hebr. 10. 12. Luc. 12. 17. 18. 21. Matth. 24. Rom. 2. 12. 14. Pſal. 94.</note> not obey, nor take notice of this preſent and laſt time, Dan. 8. 11. 12. but dare begin with the revenue of the country and meanes of the ſubject, the which they force and ſqueeze out of them and waſt, accor<g ref="char:EOLhyphen"/>ding to their pleaſure, ſuch tumults and inſurre<g ref="char:EOLhyphen"/>ctions, whereby the outward oppoſition groweth the longer the greater, and the inward fire, becauſe of envy and bitterneſſe, becometh burning more and more. The true beleevers ought, according to truth and Juſtice, Pſal. 89. 97. to looke upon God and upon the univerſall temporal and eternal welfare of man-kind, and therefore not to be judges themſelues, 1. Cor. 4. For God ſuffers not venge<g ref="char:EOLhyphen"/>ance to be taken from him, Hebr. 10.</p>
+            <closer>
+               <dateline>GIVEN<lb/> 
+                  <hi>According to the vengance, Zeale and</hi> 
+                  <note place="margin">2. Theſſ. 1. Iſai. 9. 42. 51. 59. 63. Wiſdom. 6. 12.</note> 
+                  <hi>Iuſtice of God, and beauſe of his King<g ref="char:EOLhyphen"/>dome and IVDGEMENT, Dan.</hi> 2. 7. 12. <hi>Iſai.</hi> 47. 48. <hi>Revel.</hi> 16. 18. 19. ANNO 1651.</dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
